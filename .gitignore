@@ -1,0 +1,22 @@
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Backup
+*.bak
+*.backup
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (caso use ferramentas de build futuramente)
+node_modules/
+npm-debug.log*
+
+# Temporários
+/tmp/
+*.tmp
